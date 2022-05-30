@@ -2,7 +2,6 @@
 
 /**
  * Plugin Name: Most Commented Posts
- * 
  * Description: Adds a shortcode [most_comment_posts] with a list of the most commented posts. he shortcode supports the following attributes: title, display (grid or list), post_type, posts_per_page. For example: [most_comment_posts type="page" title="Most Commented Posts" display="list" post_type="post" posts_per_page="5"]
  * Author:      Oleh Kosarenko
  * Author URI:  https://www.linkedin.com/in/kosarenko/
